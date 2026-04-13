@@ -1,0 +1,7 @@
+{
+  "workbench.editorAssociations": {
+    "*.csv": "gc-excelviewer-csv-editor",
+    "*.tsv": "gc-excelviewer-csv-editor",
+    "*.tab": "gc-excelviewer-csv-editor"
+  }
+}
